@@ -1,0 +1,96 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.top {
+  position: relative;
+  width: 100%;
+  max-width: 400px;
+}
+
+.top img {
+  margin: 34px;
+}
+
+.top_btn {
+  position: absolute;
+  border-style: none;
+  top: 44%;
+  left: 38%;
+  border-bottom: 1px solid #f2c22c;
+  font-family: 'Courgette', cursive;
+  font-size: 17px;
+  color: #f2c22c;
+  background-color: transparent;
+}
+
+.brandName {
+  width: 100%;
+  height: auto;
+}
+
+.brandName h1 {
+  font-family: 'Fjalla One', sans-serif;
+  font-size: 95px;
+  margin-left: 67px;
+  letter-spacing: 5px;
+  color: #d0021b;
+  font-stretch: expanded;
+}
+
+.brandName h2 {
+  color: #d0021b;
+  font-size: 25px;
+  font-family: 'Cormorant Garamond', serif;
+  padding-top: 20px;
+  margin-left: -25px;
+}
+
+.picWithContent {
+  width: 100%;
+  height: auto;
+}
+
+.picWithContent img {
+  width: 80%;
+  margin-left: 26px;
+  padding-top: 35px;
+}
+
+.picWithContent p {
+  padding-top: 20px;
+  font-size: 29px;
+  margin-left: 26px;
+  line-height: 200%;
+  font-family: 'Vidaloka', serif;
+}
+
+.picWithContent button {
+  border-style: none;
+  border-bottom: 1px solid #0c0c0b;
+  font-family: 'Courgette', cursive;
+  font-size: 17px;
+  color: #0c0c0b;
+  padding-top: 20px;
+  margin-left: 26px;
+  background-color: transparent;
+}
+
+.picWithContent h3,
+h2 {
+  font-size: 42px;
+  text-align: center;
+  padding-top: 30px;
+  line-height: 3px;
+  font-weight: lighter;
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.picWithContent h3 {
+  font-weight: bolder;
+}
+
+.centerBtn {
+  margin-left: 30px;
+}
